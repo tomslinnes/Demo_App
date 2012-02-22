@@ -1,3 +1,9 @@
+This is the DEMO APP.Deployed on HEROKU.
+The HEROKU url - http://evening-leaf-3464.heroku.com/
+
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
